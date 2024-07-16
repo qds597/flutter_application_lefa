@@ -1,0 +1,24 @@
+name: flutter_application_lefa
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.6
+  get_cli: ^1.8.1
+  get: 4.6.6
+  flutter: 
+    sdk: flutter
+  dio: ^5.5.0+1
+  flutter_secure_storage: ^8.1.0
+
+dev_dependencies: 
+  flutter_lints: ^3.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
